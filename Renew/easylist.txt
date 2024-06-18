@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202406180207
+! Version: 202406181356
 ! Title: EasyList
-! Last modified: 18 Jun 2024 02:07 UTC
+! Last modified: 18 Jun 2024 13:56 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 ! 
@@ -65042,6 +65042,7 @@ $popup,domain=07c225f3.online|content-loader.com|css-load.com|html-load.cc|html-
 ||depvailon.com/sponsored.html
 ||dirtyvideo.fun/js/script_
 ||dixyporn.com/include/
+||dl.4kporn.xxx^
 ||dl.crazyporn.xxx^
 ||doseofporn.com/img/jerk.gif
 ||doseofporn.com/t63fd79f7055.js
@@ -66150,6 +66151,7 @@ thebaltimorebanner.com###leaderboard-ad-v2
 vocm.com###leaderboard-area
 bbc.com###leaderboard-aside-content
 abbynews.com,biv.com,lakelandtoday.ca,orilliamatters.com,reddeeradvocate.com,sootoday.com,theprogress.com,time.com,timescolonist.com,vancouverisawesome.com###leaderboard-container
+farooqkperogi.com###leaderboard-content
 variety.com###leaderboard-no-padding
 alternet.org###leaderboard-placeholder
 foodnetwork.com###leaderboard-wrap
@@ -69209,6 +69211,7 @@ cattime.com,dogtime.com,liveoutdoors.com,playstationlifestyle.net,thefashionspot
 playbuzz.com##.pb-site-player
 washingtonpost.com##.pb-sm.pt-sm.b
 publicbooks.org##.pb_ads_widget
+allthatsinteresting.com##.pbh_inline
 recipesandcooker.com##.pbl
 caixinglobal.com##.pc-ad-left01
 serverstoplist.com##.pcOnly
@@ -70684,7 +70687,7 @@ kiryuu.id##[width="1280"]
 fansshare.com##[width="300"]
 americanfreepress.net,analyticsindiamag.com,namepros.com,readneverland.com##[width="600"]
 drwealth.com##[width="640"]
-americaoutloud.com,analyticsindiamag.com,artificialintelligence-news.com,autoaction.com.au,cryptoreporter.info,dafont.com,forexmt4indicators.com,gamblingnewsmagazine.com,irishcatholic.com,lyngsat.com,tntribune.com,tryorthokeys.com##[width="728"]
+americaoutloud.com,analyticsindiamag.com,artificialintelligence-news.com,autoaction.com.au,cryptoreporter.info,dafont.com,forexmt4indicators.com,gamblingnewsmagazine.com,irishcatholic.com,tntribune.com,tryorthokeys.com##[width="728"]
 elitepvpers.com##[width="729"]
 elitepvpers.com##[width="966"]
 presearch.com##[x-data*="kwrdAdFirst"]
@@ -72150,7 +72153,7 @@ iporntoo.com##.adbox-inner
 ftopx.com##.add-block
 sex3.com##.add-box
 playvids.com##.add_href_jsclick
-babesandstars.com,cam-video.xxx,crazyporn.xxx,cumlouder.com,gosexy.mobi,hoes.tube,hog.tv,javcl.com,javseen.tv,love4porn.com,marawaresearch.com,mobilepornmovies.com,mypornstarbook.net,pichunter.com,thisav.com##.ads
+4kporn.xxx,babesandstars.com,cam-video.xxx,crazyporn.xxx,cumlouder.com,gosexy.mobi,hoes.tube,hog.tv,javcl.com,javseen.tv,love4porn.com,marawaresearch.com,mobilepornmovies.com,mypornstarbook.net,pichunter.com,thisav.com##.ads
 pornx.to##.ads-above-single-player
 video.laxd.com##.ads-container
 cumlouder.com##.ads__block
@@ -72532,7 +72535,7 @@ yourdarkdesires.com##.moment
 txxx.com##.mpululuoopp
 xnxxvideos.rest##.mult
 javfor.tv,javhub.net##.my-2.container
-crazyporn.xxx##.myadswarning
+4kporn.xxx,crazyporn.xxx##.myadswarning
 jagaporn.com##.nativad
 yourlust.com##.native-aside
 pornhd.com##.native-banner-wrapper
@@ -72690,7 +72693,7 @@ teenpornvideo.fun##.sponsor-link-desk
 teenpornvideo.fun##.sponsor-link-mob
 pornpics.com,pornpics.de##.sponsor-type-4
 nakedpornpics.com##.sponsor-wrapper
-hoes.tube,love4porn.com##.sponsorbig
+4kporn.xxx,hoes.tube,love4porn.com##.sponsorbig
 fux.com,pornerbros.com,porntube.com,tubedupe.com##.sponsored
 hoes.tube##.sponsorsmall
 3movs.com,3movs.xxx,bravotube.net,camvideos.tv,cluset.com,deviants.com,dixyporn.com,hello.porn,javcab.com,katestube.com,pornicom.com,sleazyneasy.com,videocelebs.net,vikiporn.com,vjav.com##.spot
